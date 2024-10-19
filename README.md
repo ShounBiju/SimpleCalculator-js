@@ -1,0 +1,1 @@
+A simple Arithmetic Calculator made using HTML, CSS, JavaScript
